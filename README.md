@@ -1,8 +1,8 @@
-# 🌐 Web Resume — Web Programming Class of 2026
+# 🌐 Web Resume — Senac's Web Programming Class of 2026
 
 ### 📚 About the Project
 
-This repository was created as part of a hands-on learning activity for the **2026 Web Programming Class**, designed to introduce teenage students to **Git, GitHub, and version control fundamentals**.
+This repository was created as part of a hands-on learning activity for the **2026 Web Programming Class at Senac**, designed to introduce teenage students to **Git, GitHub, and version control fundamentals**.
 
 The idea was simple: use a personal resume website built with HTML, CSS, and JavaScript as a practical example to demonstrate how developers track changes, manage code, and collaborate on software projects.
 
