@@ -71,7 +71,8 @@ The goal was never to build the most sophisticated resume website. It was to dem
 
 ### 👨‍🏫 Educational Context
 
+**School:** Senac
 **Activity:** Introduction to Git and GitHub  
-**Class:** Web Programming — 2026  
+**Class:** Web Programming for Teens - 2026  
 **Audience:** Teenage students learning web development  
 **Purpose:** Educational project focused on hands-on learning and version control fundamentals.
